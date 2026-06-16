@@ -1,3 +1,9 @@
+/* S - SINGLE RESPONSABILITY 
+
+ Una clase debe tener responsabilidad sobre una sola parte de la funcionalidad proporcionada por el software y esta responsabilidad debe estar encapsulada en su totalidad por la clase.
+
+*/
+
 public class Pet {
 
     private String name;

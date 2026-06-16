@@ -2,6 +2,8 @@ package i_interfaceSegregation.good;
 
 /* 
 
+I - INTERFACE SEGREGATION
+
 Las clases no deben ser forzadas a depender de métodos que no utilizan.
 
 */
