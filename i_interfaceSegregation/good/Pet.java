@@ -4,7 +4,7 @@ package i_interfaceSegregation.good;
 
 I - INTERFACE SEGREGATION
 
-Las clases no deben ser forzadas a depender de métodos que no utilizan.
+Ninguna clase debe ser forzada a implementar métodos, comportamientos o contratos que no utiliza. En lugar de crear interfaces masivas y generales, se deben crear interfaces pequeñas y específicas para cada tipo de cliente.
 
 */
 
